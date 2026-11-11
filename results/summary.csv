@@ -1,0 +1,4 @@
+source,reactive_pct,ci_low,ci_high,remodelling_in_reactive,logFC_homeostatic,logFC_reactive,logFC_remodelling,logFC_stress (IEG),stress_score_mean
+tissue (truth),29.56,,,0.503,-1.201,1.497,1.256,-0.0,0.0
+"gentle, low-shear",28.65,20.411,36.889,0.498,-1.198,1.478,1.28,-0.001,0.102
+"harsh, high-shear",10.8,6.851,14.749,0.345,-1.211,1.528,0.797,0.002,0.793
